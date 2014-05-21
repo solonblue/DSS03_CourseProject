@@ -1,7 +1,8 @@
 ## Code book of primary tidy data set (mean and std related data, not group by activity and subjectid)
 
 * **activity**
-   	1. WALKING
+   	
+	1. WALKING
     	2. WALKING_UPSTAIRS 
     	3. WALKING_DOWNSTAIRS
     	4. SITTING
@@ -9,10 +10,12 @@
     	6. LAYING
 
 *  **subjectid** 
-    	30 volunteers within an age bracket of 19-48 years
+
+    	1. 30 volunteers within an age bracket of 19-48 years
 
 *  ** all the rest variables** 
-	*acc: accelerometer, gyro: gyroscope: x/y/z: motion measurement in x/y/z axis
+
+	*acc: accelerometer, gyro: gyroscope: x/y/z: motion measurement in x/y/z axis*
 	1.             tbodyaccmeanx
 	2.             tbodyaccmeany
 	3.             tbodyaccmeanz
