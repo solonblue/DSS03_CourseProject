@@ -2,7 +2,7 @@
 
 * The objetive is to have a tidy data by combination, renaming, filtering and aggregation in R.
 
-* A quick summary of R code. Details please refer to the run_analysis.R
+* **A quick summary of R code. Details please refer to the run_analysis.R**
 
 	Section 1 Loading data files into R
 	Section 2 Add variable names and combine train/test set
