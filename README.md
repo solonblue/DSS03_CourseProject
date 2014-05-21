@@ -4,11 +4,11 @@
 
 * **A quick summary of R code. Details please refer to the run_analysis.R**
 
-	Section 1 Loading data files into R
-	Section 2 Add variable names and combine train/test set
-	Section 3 filter out data related to mean and std of measurements
-	Section 4 create second data set of meansures group by activity and suject
-	Section 5 Export data
+	1. Section 1 Loading data files into R
+	2. Section 2 Add variable names and combine train/test set
+	3. Section 3 filter out data related to mean and std of measurements
+	4. Section 4 create second data set of meansures group by activity and suject
+	5. Section 5 Export data
 
 * **Logic of renaming**
 
